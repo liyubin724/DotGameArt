@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d8de549e28c277443ba55403ae661d29, type: 3}
-  m_Name: spriteatlas_setting
+  m_Name: atlas_setting
   m_EditorClassIdentifier: 
   atlasDirPath: Assets/ArtRes/UI/Atlas
   pixelsPerUnit: 100
@@ -21,7 +21,7 @@ MonoBehaviour:
   isMipmap: 0
   isSRGB: 1
   filterMode: 1
-  maxSize: 2048
-  winTextureFormat: 0
-  androidTextureFormat: 0
-  iosTextureFormat: 0
+  maxSize: 1024
+  winTextureFormat: 2
+  androidTextureFormat: 13
+  iosTextureFormat: 13
