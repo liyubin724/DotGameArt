@@ -1532,309 +1532,217 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba0b910586efdf343aa3208a85836672, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bindNodes: []
+  bindNodes:
+  - nodeType: 1
+    name: LeftWeapon
+    transform: {fileID: 1032884309789374614}
+    renderer: {fileID: 0}
+  - nodeType: 1
+    name: RightWeapon
+    transform: {fileID: 7628168966202794919}
+    renderer: {fileID: 0}
   boneNodes:
   - nodeType: 3
     name: ch_pc_hou_006_skeleton
     transform: {fileID: 2789743518893958626}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bone_root01
     transform: {fileID: 3877258214701445180}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bone_root02
     transform: {fileID: 890364470556904227}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001
     transform: {fileID: 2642617697799459886}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Pelvis
     transform: {fileID: 2845115357148811186}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Spine
     transform: {fileID: 8521887910110487042}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L Thigh
     transform: {fileID: 1706200552939950169}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L Calf
     transform: {fileID: 4745338757645506895}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L Foot
     transform: {fileID: 1691715333853957475}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L Toe0
     transform: {fileID: 7730498083146722899}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: fx_foot_l
     transform: {fileID: 1729551747286548867}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R Thigh
     transform: {fileID: 9185985603560234121}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R Calf
     transform: {fileID: 8732272798276428640}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R Foot
     transform: {fileID: 8184088390986112502}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R Toe0
     transform: {fileID: 1721508599867405908}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: fx_foot_r
     transform: {fileID: 860254521006074129}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Spine1
     transform: {fileID: 5513802463071202176}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Neck
     transform: {fileID: 6873226411679723270}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Head
     transform: {fileID: 7857745992078637153}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L Clavicle
     transform: {fileID: 1797876560807346171}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L UpperArm
     transform: {fileID: 6155132850724504070}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L Forearm
     transform: {fileID: 1772813180352542870}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L Hand
     transform: {fileID: 7641782065335589395}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 L Finger0
     transform: {fileID: 5361319990067032253}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: fx_hand_l
     transform: {fileID: 2912421060525605550}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: fx_clavicle_l
     transform: {fileID: 6487993699975870904}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R Clavicle
     transform: {fileID: 5737355327304600439}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R UpperArm
     transform: {fileID: 3453198920872519846}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R Forearm
     transform: {fileID: 2993935097030106836}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R Hand
     transform: {fileID: 4630439323603582378}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 R Finger0
     transform: {fileID: 68093181321023162}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: fx_hand_r
     transform: {fileID: 4983823553624796892}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: fx_clavicle_r
     transform: {fileID: 3405934087298561339}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: fx_chest
     transform: {fileID: 4445052773922598801}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Tail
     transform: {fileID: 8968806474348791808}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Tail1
     transform: {fileID: 5129810124999145295}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Tail2
     transform: {fileID: 3812174193619313959}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Tail3
     transform: {fileID: 354494813171927168}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: Bip001 Xtra01
     transform: {fileID: 4306516865048419701}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: fx_top
     transform: {fileID: 3888360191572414976}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: weapon_hand_l
     transform: {fileID: 1032884309789374614}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: weapon_hand_r
     transform: {fileID: 7628168966202794919}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: ch_pc_hou_006_jiao
     transform: {fileID: 2999054244298549629}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: ch_pc_hou_006_shen
     transform: {fileID: 5525134254081666163}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: ch_pc_hou_006_shou
     transform: {fileID: 5066660616668999185}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 3
     name: ch_pc_hou_006_tou
     transform: {fileID: 2613062859746934746}
     renderer: {fileID: 0}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   smRendererNodes:
   - nodeType: 2
     name: ch_pc_hou_006_jiao
     transform: {fileID: 0}
     renderer: {fileID: 853904322641834825}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 2
     name: ch_pc_hou_006_shen
     transform: {fileID: 0}
     renderer: {fileID: 7224062665196127785}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 2
     name: ch_pc_hou_006_shou
     transform: {fileID: 0}
     renderer: {fileID: 3815675627584805642}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
   - nodeType: 2
     name: ch_pc_hou_006_tou
     transform: {fileID: 0}
     renderer: {fileID: 8530083801484321344}
-    positionOffset: {x: 0, y: 0, z: 0}
-    rotationOffset: {x: 0, y: 0, z: 0}
 --- !u!1 &8502332595955485110
 GameObject:
   m_ObjectHideFlags: 0

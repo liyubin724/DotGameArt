@@ -9,10 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 999840b21f9dadb4cb9bb06e1a01073c, type: 3}
-  m_Name: ch_pc_hou_006_tou_part
+  m_Script: {fileID: 11500000, guid: b1230d58ed09d9e4982a69709dc90934, type: 3}
+  m_Name: ch_pc_hou_008_shen_renderer
   m_EditorClassIdentifier: 
-  partType: 4
-  rendererParts:
-  - {fileID: 11400000, guid: b0e161c833e513a4d9d4039f08137b64, type: 2}
-  prefabParts: []
+  rendererNodeName: 
+  rootBoneName: 
+  mesh: {fileID: 0}
+  materials: []
+  boneNames: []
