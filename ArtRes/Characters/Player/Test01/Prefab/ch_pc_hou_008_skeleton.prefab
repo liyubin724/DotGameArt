@@ -632,7 +632,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba0b910586efdf343aa3208a85836672, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bindNodes: []
+  bindNodes:
+  - nodeType: 1
+    name: LeftWeapon
+    transform: {fileID: 5568837311157304812}
+    renderer: {fileID: 0}
+  - nodeType: 1
+    name: RightWeapon
+    transform: {fileID: 7865278738269213314}
+    renderer: {fileID: 0}
   boneNodes:
   - nodeType: 3
     name: ch_pc_hou_008_skeleton
